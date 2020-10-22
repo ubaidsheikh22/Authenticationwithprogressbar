@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "431286130599",
+    "firebase_url": "https://fir-demo-b1a8b.firebaseio.com",
+    "project_id": "fir-demo-b1a8b",
+    "storage_bucket": "fir-demo-b1a8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431286130599:android:131bac6c3fef91914fc882",
+        "android_client_info": {
+          "package_name": "aptech.f.navigationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431286130599-k6b9fankoa46ss5g5i3ie8ht029dna36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpjhviPAWoPVRuFc69VWh0TUlEkXG46M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431286130599-k6b9fankoa46ss5g5i3ie8ht029dna36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431286130599:android:7f1c201f3b1133e44fc882",
+        "android_client_info": {
+          "package_name": "azfam.aptech.authenticationwithprogressbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431286130599-s7blgd4eusld96qm95eghhuhveo4l4v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "azfam.aptech.authenticationwithprogressbar",
+            "certificate_hash": "6dc5499d4f373b410b883886a29bd367eb0bb519"
+          }
+        },
+        {
+          "client_id": "431286130599-k6b9fankoa46ss5g5i3ie8ht029dna36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpjhviPAWoPVRuFc69VWh0TUlEkXG46M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431286130599-k6b9fankoa46ss5g5i3ie8ht029dna36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431286130599:android:80e0861d7ac886b44fc882",
+        "android_client_info": {
+          "package_name": "com.ad.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431286130599-k6b9fankoa46ss5g5i3ie8ht029dna36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvpjhviPAWoPVRuFc69VWh0TUlEkXG46M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431286130599-k6b9fankoa46ss5g5i3ie8ht029dna36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
